@@ -17,7 +17,8 @@ Visual Studio 2018, .Net Core, Postman.
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
-C#, .Net Core, 
+C#, .Net Core, NuGet Packages.
+This is a RESTful API that gets, sets, posts and deletes data to and from a table.  
 
 ## Change Log
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
@@ -25,3 +26,4 @@ C#, .Net Core,
 01-01-2001 4:59pm - Added functionality to add and delete some things. -->
 04-10-2018 8:20am - Start of project
 04-10-2018 9:24am - Completed tutorial
+04-10-2018 5:46pm - Push up to Git.
